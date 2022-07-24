@@ -8,3 +8,5 @@ Arquivos do módulo inicial de Node + Typescript, da estrutura MVC aplicada.
 
 ### Para rodar o projeto
 `npm run start-dev`
+
+> Connect to http://localhost:2000/
